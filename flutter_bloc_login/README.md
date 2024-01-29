@@ -24,7 +24,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip ed
 
 # [API](https://reqres.in/)
 
-# KAYNAK(https://www.youtube.com/watch?v=BOHOlOv7FaI&ab_channel=HardwareAndro)
+# [KAYNAK](https://www.youtube.com/watch?v=BOHOlOv7FaI&ab_channel=HardwareAndro)
 
 
 Bu proje, HardwareAndro adlı Youtube kanalının Flutter BLoC Login Ekranı Geliştirme dersi izleyerek geliştirilmiştir.
