@@ -1,16 +1,30 @@
-# flutter_bloc
+# Flutter_bloc_login
 
-A new Flutter project.
 
-## Getting Started
+Bu proje, Flutter ve Bloc kütüphanesi kullanılarak geliştirilmiş bir login uygulamasını içermektedir.
 
-This project is a starting point for a Flutter application.
+## Başlangıç
 
-A few resources to get you started if this is your first Flutter project:
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Gereksinimler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart SDK
+- [Gerekli diğer bağımlılıklar]
+
+### Kurulum
+
+ Bu depoyu klonlayın:
+
+   ```bash
+   git clone https://github.com/Erayaltilar/Flutter_bloc_login.git
+   ```
+
+
+[API](https://reqres.in/)
+
+
+Bu proje, HardwareAndro adlı Youtube kanalından Flutter BLoC Login Ekranı Geliştirme dersi izleyerek geliştirilmiştir. Dersin detayları ve kaynakları için aşağıdaki linki kullanabilirsiniz:
+
+[KAYNAK](https://www.youtube.com/watch?v=BOHOlOv7FaI&ab_channel=HardwareAndro)
