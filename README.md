@@ -11,7 +11,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip ed
 
 - Flutter SDK
 - Dart SDK
-- [Gerekli diğer bağımlılıklar]
 
 ### Kurulum
 
